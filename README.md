@@ -64,8 +64,8 @@ This project builds an end-to-end data pipeline and dashboard for analyzing bike
 
 ## 👤 Author
 
-BEGUMPETA ANJALI
-KOLLAPU JAHNAVI
-ASRAR HUSSAIN
-YASHWANTH RAJU
-DURGA HARIKA
+* BEGUMPETA ANJALI
+* KOLLAPU JAHNAVI
+* ASRAR HUSSAIN
+* YASHWANTH RAJU
+* DURGA HARIKA
